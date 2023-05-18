@@ -4,4 +4,5 @@ matplotlib
 seaborn
 streamlit
 folium
-
+streamlit-option-menu
+streamlit-folium
